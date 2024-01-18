@@ -9,8 +9,8 @@
  - Click on **Get API Token**. [Image](https://i.jhh.moe/470abe65d255.png)
  - Follow the instruction to create the API Token. Make sure to save it as it won't be showed again. [Image](https://i.jhh.moe/8e37b99eabd2.png)
  - At the link bar, copy your account ID. [Image](https://i.jhh.moe/b2653d4342d4.png)
- - In `main.py` __Line 7__, replace `:id` to your account ID
- - In `main.py` __Line 8__, replace `(TOKEN HERE)` [including the bracket] to your API Token
+ - In `main.py` __Line 5__, replace `:id` to your account ID
+ - In `main.py` __Line 6__, replace `(TOKEN HERE)` [including the bracket] to your API Token
  - Change `AI_NAME` and `SYSTEM_PROMPT` to your own AI name and System Prompt
 
 ## Installation
